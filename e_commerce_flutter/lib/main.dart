@@ -6,6 +6,12 @@ import 'package:frontend_ecommerce_app/src/configs/theme/app_theme.dart';
 
 void main() async {
   runApp(const MyApp());
+
+  //
+  //
+  //
+  //
+  //
 }
 
 class MyApp extends StatefulWidget {
